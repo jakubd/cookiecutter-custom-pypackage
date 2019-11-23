@@ -1,0 +1,13 @@
+{
+    "author_name": "Jakub Dalek",
+    "author_github_user": "jakubd",
+    "author_email": "me@jakubd.com",
+
+    "package_name": "package_name",
+    "package_main_class_name": "Something",
+    "package_version": "0.0.1",
+    "package_description": "This python package does things.",
+    "package_url": "",
+    
+    "readme_travis_badge": true
+}

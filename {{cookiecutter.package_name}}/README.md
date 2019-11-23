@@ -1,7 +1,5 @@
 [![License.md](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-{% if cookiecutter.readme_travis_badge -%}
 [![Build Status](https://travis-ci.org/{{ cookiecutter.author_github_user }}/{{ cookiecutter.package_name }}.svg?branch=master)](https://travis-ci.org/{{ cookiecutter.author_github_user }}/{{ cookiecutter.package_name }})
-{%- endif %}
 
 # {{ cookiecutter.package_name }}
 

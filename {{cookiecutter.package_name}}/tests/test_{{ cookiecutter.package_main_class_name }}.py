@@ -1,4 +1,3 @@
-# Sample Test passing with nose and pytest
 from {{ cookiecutter.package_name }} import {{ cookiecutter.package_main_class_name }}
 
 def test_pass():

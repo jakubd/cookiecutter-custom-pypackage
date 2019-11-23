@@ -7,7 +7,4 @@
     "package_main_class_name": "Something",
     "package_version": "0.0.1",
     "package_description": "This python package does things.",
-    "package_url": "",
-    
-    "readme_travis_badge": true
 }
